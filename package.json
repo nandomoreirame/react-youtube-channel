@@ -2,6 +2,7 @@
   "name": "react-youtube-channel",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://react-youtube-channel.netlify.com",
   "dependencies": {
     "axios": "^0.18.0",
     "dotenv": "^6.2.0",
