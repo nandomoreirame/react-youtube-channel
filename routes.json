@@ -1,0 +1,4 @@
+{
+  "/users/*/repos": "/repos",
+  "/users/*": "/$1"
+}
