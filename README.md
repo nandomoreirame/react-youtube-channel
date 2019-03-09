@@ -72,7 +72,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## History
 
-See [Releases](https://github.com/nandomoreirame/readme-boilerplate/releases) for detailed changelog.
+See [Releases](../../releases) for detailed changelog.
 
 ## Author
 
